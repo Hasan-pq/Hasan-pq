@@ -84,8 +84,8 @@
 
 <div align="center">
   <!-- Popüler ve bakımı kolay istatistik kartlarını kullanın -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[Kullanıcı_Adınız]&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Kullanıcı_Adınız]&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-pq&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-pq&theme=dark" alt="GitHub Streak" />
 </div>
 
 <br/>
