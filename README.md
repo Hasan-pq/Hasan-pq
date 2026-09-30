@@ -46,7 +46,7 @@
 <div align="center">
   <!-- E-Mail Rozeti (Bağlantı eklemek için mailto linki kullanın) -->
   <a href="mailto:hasancelebi.193700@gmail.com">
-    <img src="https://img.shields.io/badge/E--MAIL-[Gmail_Adresiniz]@gmail.com-blue?style=for-the-badge&logo=gmail" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/E--MAIL-hasancelebi.193700@gmail.com-blue?style=for-the-badge&logo=gmail" alt="E-Mail" />
   </a>
   <!-- Diğer Rozetler (Bağlantıları kendi profil linklerinizle güncelleyin) -->
   <a href="https://linkedin.com/in/[Kullanıcı_Adınız]" target="_blank">
