@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Profil Görüntüleme Sayacı (Otomatik güncellenir) -->
-  <img src="https://komarev.com/ghpvc/?username=[Kullanıcı_Adınız]&color=brightgreen" alt="Profil Görüntüleme" />
+  <img src="https://komarev.com/ghpvc/?username=hasan-pq&color=brightgreen" alt="Profil Görüntüleme" />
   <!-- Durum Rozeti -->
   <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-blue" alt="Durum" />
 </div>
