@@ -52,14 +52,8 @@
   <a href="https://linkedin.com/in/[Kullanıcı_Adınız]" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-[Kullanıcı_Adınız]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@[Kullanıcı_Adınız]" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-[Kullanıcı_Adınız]-black?style=for-the-badge&logo=medium" alt="Medium" />
-  </a>
-  <a href="https://hackerrank.com/[Kullanıcı_Adınız]" target="_blank">
-    <img src="https://img.shields.io/badge/HACKERRANK-[Kullanıcı_Adınız]-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/[Kullanıcı_Adınız]" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-[Kullanıcı_Adınız]-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <a href="https://leetcode.com/hasan5151" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-hasan5151-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </div>
 
